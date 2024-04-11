@@ -19,9 +19,7 @@
     margin-bottom: 15px; /* Add margin between form groups */
 }
 
-
-
-input[type="email"] {
+input[type="email"]{
     width: 100%; /* Set input width to fill container */
     padding: 10px; /* Add padding to input fields */
     margin-bottom: 10px; /* Add margin between inputs */
@@ -30,7 +28,6 @@ input[type="email"] {
     background-color: #1f1f1f; /* Input background color */
     color: #ffffff; /* Input text color */
 }
-
 
 button {
     background-color: #f42b03;
